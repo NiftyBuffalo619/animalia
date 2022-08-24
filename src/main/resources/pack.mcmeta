@@ -1,0 +1,8 @@
+{
+    "pack": {
+        "description": "A mod with a lot of animals special thanks goes for Kaupenjoe for the raccon asset and for learning me",
+        "pack_format": 9,
+        "forge:resource_pack_format": 9,
+        "forge:data_pack_format": 10
+    }
+}
